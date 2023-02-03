@@ -1,0 +1,34 @@
+body{
+	background: #F5F5DC;
+	font-family: cursive;
+}
+
+h1{
+	color: #000000;
+	font-size: 50 pt;
+	font-family: cursive;
+}
+img {
+
+	padding-left: 10px;
+}
+p{
+	color: 	;
+}
+textarea{
+		padding: 8px;
+		width: 90%;
+		background: #efefef;
+		border: 0;
+		font-size: 10 pt;
+		margin: 6px 0px;
+	}
+	.tombol{
+		background: #008000;
+		color: #fff;
+		border: 0;
+		padding: 55px 8px;
+		margin: 20px 0px;
+	}
+
+
